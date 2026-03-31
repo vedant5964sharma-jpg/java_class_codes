@@ -16,7 +16,7 @@ class Book {
     }
 }
 
-public class Scenario {
+public class sceniro1 {
     public static void main(String[] args) {
 
         ArrayList<Book> books = new ArrayList<>();
